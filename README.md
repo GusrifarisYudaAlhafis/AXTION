@@ -1,7 +1,7 @@
 # AXTION, Bangkit 2022 Final Capstone Project
 An OCR featured application that could translate HANACARAKA script into Alphabet
 
-## Theme : Education, Training, Upskilling & Research (including Competitive Human Resources)
+### Theme : Education, Training, Upskilling & Research (including Competitive Human Resources)
 
 ## Team ID : C22-PS109
 ### Team Members
